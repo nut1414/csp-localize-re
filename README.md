@@ -6,7 +6,7 @@ Why? Because I "accidentally" bought the Japanese version of the software w/o re
 
 This repository includes hexpattern code for ImHex for automatic pattern detection (still a WIP).
 
-Any help is appreciated, and if you got the old i10n tools, please message me :p.
+Any help is appreciated, and if you got the old l10n tools, please message me :p.
 
 Formats are numbered based on the order of when (I) first encounter.
 

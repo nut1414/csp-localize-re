@@ -334,7 +334,7 @@ FFFFFFFF
 PWModuleInfo
 ```
 
-## Format 7 (DataType::???????? = 0x4) Unknown (More Text?)
+## Format 8 (DataType::???????? = 0x4) Unknown (More Text?)
 
 ```c
 @0x0020385D
